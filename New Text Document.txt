@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-Main Branch Codee 
-
-git Master
-=======
-Main Branch Code
->>>>>>> main
-testing uploadd adding main branch 
+1.main branch
