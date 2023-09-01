@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Main Branch Codee 
 
 git Master
+=======
+Main Branch Code
+>>>>>>> main
